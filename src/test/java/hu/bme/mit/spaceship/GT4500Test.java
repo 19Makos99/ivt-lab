@@ -6,6 +6,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.mockito.Mockito.*;
 
+// extra line
+
 public class GT4500Test {
 
   private GT4500 ship;
