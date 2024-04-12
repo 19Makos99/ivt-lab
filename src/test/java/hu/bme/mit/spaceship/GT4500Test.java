@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.mockito.Mockito.*;
 
-// extra line
+// Added extra line for merge conflict
 
 public class GT4500Test {
 
