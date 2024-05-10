@@ -1,0 +1,13 @@
+Single módban először a primary torpedo storeból lő.
+
+Single módban a második lövés a secondary torpedo storeból lő.
+
+Single módban ha a primary torpedo store üres, akkor a secondaryból lő.
+
+Single módban ha a primary torpedo store nem tud lőni, akkor nem próbál a secondaryból lőni.
+
+Single módban a primary lő és a secondary üres.
+
+All módban az összes torpedo kilövésre kerül.
+
+All módban a mindkét torpedo store üres.
